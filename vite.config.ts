@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Urbanadengeppa7peru/',
+    base: '/URBANatti/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
