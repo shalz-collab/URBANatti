@@ -1,20 +1,87 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Urbanadengeppa7peru
 
-# Run and deploy your AI Studio app
+A modern full-stack Roommate Chore Management web application designed to simplify shared living by helping roommates manage chores, schedules, rewards, and daily activities efficiently.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/0f64a3ed-eda1-4dff-8e39-60ebfe68b2d2
+- Secure User Authentication
+- Individual User Profiles
+- Chore Assignment and Tracking
+- Mark Chores as Complete
+- Delete and Edit Chores
+- Dashboard with Statistics
+- Rewards System
+- Personal Gallery
+- Calendar and Scheduling
+- Chat System
+- Activity History
+- Theme Customization
+- Custom Background Upload
+- Responsive Design
+- Modern Glassmorphism UI
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
 
+## Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Clone the repository:
+
+```bash
+git clone https://github.com/shalz-collab/Urbanadengeppa7peru.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd Urbanadengeppa7peru
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Project Structure
+
+```
+src/
+components/
+pages/
+server/
+public/
+assets/
+```
+
+## Future Enhancements
+
+- Real-time Notifications
+- Push Notifications
+- AI-based Chore Suggestions
+- Expense Management
+- Mobile Application
+
+## License
+
+This project is created for learning and portfolio purposes.
