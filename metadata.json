@@ -1,0 +1,6 @@
+{
+  "name": "adengappa 7 peru",
+  "description": "Smart Apartment & Roommate Management System featuring visual scheduling, chore tracking, profile customisation, gallery, group chat and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
